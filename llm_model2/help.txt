@@ -1,0 +1,2 @@
+this fixed rule based model.
+question format is fixed and will answer for exact match only.
